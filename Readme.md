@@ -1,4 +1,4 @@
-# 📚 Gemini Research Agent
+# 📚 Topic Research Agent
 
 ## 🔍 Overview
 
@@ -108,4 +108,5 @@ AI has revolutionized diagnostics by enabling faster and more accurate detection
 ...
 
 ---
+
 
